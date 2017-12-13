@@ -2,9 +2,7 @@
               
      
     
-                
-                
-               Stype=["WS","MS","AS","AS","MS","WS","WS","MS","AS","AS","MS","WS"]
+Stype=["WS","MS","AS","AS","MS","WS","WS","MS","AS","AS","MS","WS"]
 Num=int(input("Enter n: "))
 Sno=[]
 TypeOfSeat=[]
